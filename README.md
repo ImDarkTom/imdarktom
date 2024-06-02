@@ -4,4 +4,3 @@
 ## 🛠 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,py,nodejs,discord,git)
-## 💬 Socials
