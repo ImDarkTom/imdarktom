@@ -4,14 +4,19 @@
 
 ---
 
-**Languages:**
+## Languages
+![Languages](https://skillicons.dev/icons?i=ts,js,html,css)
 
-![My Languages](https://skillicons.dev/icons?i=ts,js,html,css)
+## Tools & Frameworks
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=vue,tailwind)
 
-**Tools:**
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,bun,express)
 
-![My Tools](https://skillicons.dev/icons?i=vscode,nodejs,npm,express,git)
+### Dev
+![DevTools](https://skillicons.dev/icons?i=vscode,git)
 
-**Platforms:**
 
-![My Platforms](https://skillicons.dev/icons?i=windows,linux)
+## Platforms
+![Platforms](https://skillicons.dev/icons?i=windows,linux)
