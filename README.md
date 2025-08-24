@@ -5,18 +5,18 @@
 ---
 
 ## Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,html,css)
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts)
 
 ## Tools & Frameworks
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=vue,tailwind)
+![Frontend](https://skillicons.dev/icons?i=vue,vite,tailwind,pinia)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,bun,express)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,bun,supabase,vercel)
 
 ### Dev
-![DevTools](https://skillicons.dev/icons?i=vscode,git)
+![DevTools](https://skillicons.dev/icons?i=vscode,git,bash,docker)
 
 
 ## Platforms
-![Platforms](https://skillicons.dev/icons?i=windows,linux)
+![Platforms](https://skillicons.dev/icons?i=linux,mint,windows)
