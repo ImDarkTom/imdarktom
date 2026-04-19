@@ -7,14 +7,14 @@
 
 ## Tools & Frameworks
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=nuxtjs,vue,vite,tailwind,pinia)
+![Frontend](https://skillicons.dev/icons?i=nuxtjs,vue,vite,tailwind)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,bun,supabase,vercel)
+![Backend](https://skillicons.dev/icons?i=bun,nodejs,supabase,vercel)
 
 ### Dev
 ![DevTools](https://skillicons.dev/icons?i=vscode,git,bash,docker)
 
 
 ## Platforms
-![Platforms](https://skillicons.dev/icons?i=linux,mint,windows)
+![Platforms](https://skillicons.dev/icons?i=linux,ubuntu,mint)
